@@ -1,0 +1,15 @@
+C:\CSharp\Медов С.И. Урок 7. Двумерные массивы\Task3\bin\Debug\net7.0\Task3.exe
+C:\CSharp\Медов С.И. Урок 7. Двумерные массивы\Task3\bin\Debug\net7.0\Task3.deps.json
+C:\CSharp\Медов С.И. Урок 7. Двумерные массивы\Task3\bin\Debug\net7.0\Task3.runtimeconfig.json
+C:\CSharp\Медов С.И. Урок 7. Двумерные массивы\Task3\bin\Debug\net7.0\Task3.dll
+C:\CSharp\Медов С.И. Урок 7. Двумерные массивы\Task3\bin\Debug\net7.0\Task3.pdb
+C:\CSharp\Медов С.И. Урок 7. Двумерные массивы\Task3\obj\Debug\net7.0\Task3.csproj.AssemblyReference.cache
+C:\CSharp\Медов С.И. Урок 7. Двумерные массивы\Task3\obj\Debug\net7.0\Task3.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp\Медов С.И. Урок 7. Двумерные массивы\Task3\obj\Debug\net7.0\Task3.AssemblyInfoInputs.cache
+C:\CSharp\Медов С.И. Урок 7. Двумерные массивы\Task3\obj\Debug\net7.0\Task3.AssemblyInfo.cs
+C:\CSharp\Медов С.И. Урок 7. Двумерные массивы\Task3\obj\Debug\net7.0\Task3.csproj.CoreCompileInputs.cache
+C:\CSharp\Медов С.И. Урок 7. Двумерные массивы\Task3\obj\Debug\net7.0\Task3.dll
+C:\CSharp\Медов С.И. Урок 7. Двумерные массивы\Task3\obj\Debug\net7.0\refint\Task3.dll
+C:\CSharp\Медов С.И. Урок 7. Двумерные массивы\Task3\obj\Debug\net7.0\Task3.pdb
+C:\CSharp\Медов С.И. Урок 7. Двумерные массивы\Task3\obj\Debug\net7.0\Task3.genruntimeconfig.cache
+C:\CSharp\Медов С.И. Урок 7. Двумерные массивы\Task3\obj\Debug\net7.0\ref\Task3.dll
